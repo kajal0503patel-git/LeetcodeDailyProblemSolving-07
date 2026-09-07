@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
