@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
