@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
