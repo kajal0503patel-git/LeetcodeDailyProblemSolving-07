@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0535-encode-and-decode-tinyurl) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
