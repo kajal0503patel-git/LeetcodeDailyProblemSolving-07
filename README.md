@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
 ## Math
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -203,4 +206,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
