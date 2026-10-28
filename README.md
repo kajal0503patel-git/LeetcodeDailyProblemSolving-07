@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0535-encode-and-decode-tinyurl) |
 | [1096-brace-expansion-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2089-find-target-indices-after-sorting-array) |
