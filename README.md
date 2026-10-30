@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0678-valid-parenthesis-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
