@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2089-find-target-indices-after-sorting-array) |
