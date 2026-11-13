@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0041-first-missing-positive) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
