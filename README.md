@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0056-merge-intervals) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0056-merge-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
