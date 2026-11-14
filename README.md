@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0301-remove-invalid-parentheses) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1385-find-the-distance-value-between-two-arrays) |
