@@ -1,19 +1,18 @@
+import java.util.*;
+
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
-        }
+        if (s.length() != t.length()) return false;
 
-        int[] count = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
-        }
+        Map<Integer, Integer> count = new HashMap<>();
 
-        for (int c : count) {
-            if (c != 0) {
-                return false;
-            }
+        // iterate by code point, not char
+        s.codePoints().forEach(cp -> count.merge(cp, 1, Integer::sum));
+
+        for (int cp : t.codePoints().toArray()) {
+            Integer c = count.get(cp);
+            if (c == null || c == 0) return false;
+            count.put(cp, c - 1);
         }
         return true;
     }
