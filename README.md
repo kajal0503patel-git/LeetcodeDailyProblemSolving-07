@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0301-remove-invalid-parentheses) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0535-encode-and-decode-tinyurl) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0242-valid-anagram) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1096-brace-expansion-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1385-find-the-distance-value-between-two-arrays) |
