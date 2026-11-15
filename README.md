@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0041-first-missing-positive) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
