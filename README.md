@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3665-twisted-mirror-path-count) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
