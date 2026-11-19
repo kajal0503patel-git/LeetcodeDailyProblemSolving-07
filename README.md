@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0074-search-a-2d-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3665-twisted-mirror-path-count) |
