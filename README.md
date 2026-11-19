@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0042-trapping-rain-water) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
