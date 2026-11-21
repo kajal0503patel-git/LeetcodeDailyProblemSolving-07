@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0238-product-of-array-except-self) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0136-single-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3882-minimum-xor-path-in-a-grid) |
