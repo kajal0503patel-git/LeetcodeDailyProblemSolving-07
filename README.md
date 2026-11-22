@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0535-encode-and-decode-tinyurl) |
 | [0678-valid-parenthesis-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0678-valid-parenthesis-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0504-base-7) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3498-reverse-degree-of-a-string) |
