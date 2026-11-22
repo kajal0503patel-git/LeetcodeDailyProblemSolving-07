@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0191-number-of-1-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
