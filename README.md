@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3882-minimum-xor-path-in-a-grid) |
