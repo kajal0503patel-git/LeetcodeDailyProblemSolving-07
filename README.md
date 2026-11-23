@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0371-sum-of-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3882-minimum-xor-path-in-a-grid) |
