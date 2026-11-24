@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0371-sum-of-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
