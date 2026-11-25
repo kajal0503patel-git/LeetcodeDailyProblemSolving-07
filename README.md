@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0283-move-zeroes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/1096-brace-expansion-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Manacher
 |  |
 | ------- |
