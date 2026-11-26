@@ -1,20 +1,33 @@
 class Solution {
-    public double myPow(double x, int n) {
-        long N = n; // avoid overflow when n = Integer.MIN_VALUE
-        boolean negative = N < 0;
-        if (negative) N = -N;
+    public double myPow(double x, long n) {
 
-        double result = 1.0;
-        double base = x;
+        long e = (long) n;
 
-        while (N > 0) {
-            if ((N & 1) == 1) {
-                result *= base;
+        if (n == 0)
+            return 1;
+        else if (x == 0)
+            return 0;
+
+        else if (n < 0) {
+
+            double half = myPow(x, -e / 2);
+
+            if (e % 2 == 0) {
+                return 1 / (half * half);
+            } else {
+                return 1 / (x * half * half);
             }
-            base *= base;
-            N >>= 1;
         }
 
-        return negative ? 1.0 / result : result;
+        else {
+
+            double half = myPow(x, e / 2);
+
+            if (e % 2 == 0) {
+                return half * half;
+            } else {
+                return x * half * half;
+            }
+        }
     }
 }
