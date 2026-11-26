@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0371-sum-of-two-integers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal0503patel-git/LeetcodeDailyProblemSolving-07/tree/master/3483-unique-3-digit-even-numbers) |
